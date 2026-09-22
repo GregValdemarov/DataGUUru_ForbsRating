@@ -3,4 +3,4 @@
 
 Постановка задачи в файле [Задание Loginom 26.docx](https://github.com/GregValdemarov/DataGUUru_ForbsRating/blob/main/Задание%20%20Loginom%2026.docx)
 
-Задача реализована с использованием пакета программ Loginom Community. 
+Задача реализована с использованием пакета программ [Loginom Community](https://loginom.ru/). 
